@@ -13,7 +13,7 @@
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbuildingdata&label=View&labelColor=%23222222&countColor=%2337d67a" />
 </p>
 
-### 🕙 状态
+### 🕙 当前状态
 
 | 入学年份 | 是否管理 |              Github 账户               | Github 账户 |
 | :------: | :------: | :------------------------------------: | :---------: |
@@ -21,7 +21,7 @@
 | 2022 级  |    是    | [昊宁](https://github.com/pudding0503) |             |
 | 2023 级  |    否    |                                        |             |
 
-团队交接时间在暑假期间（下次交接时间在 2024 年暑假期间）：
+下次团队交接时间在 2024 年暑假期间：
 
 - 升学到研三的同学，将让出此组织的管理权
 - 升学到研二的同学，将拿起接力棒，管理好此组织
