@@ -12,8 +12,10 @@
   </a>
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbuildingdata&label=View&labelColor=%23222222&countColor=%2337d67a" />
 </p>
-
 ### 🕙 当前状态
+
+<details>
+<summary>点击展开</summary>
 
 | 入学年份 | 是否管理 |              Github 账户               |      |
 | :------: | :------: | :------------------------------------: | :--: |
@@ -27,4 +29,17 @@
 - 升学到研二的同学，将拿起接力棒，管理好此组织
 - 准备入学的准研一同学此时也会加入进来，提早熟悉
 
-请一定先阅读以下我们的[欢迎文档](https://github.com/buildingdata/Welcome)。
+</details>
+
+### 📑 开始之前
+
+<details>
+<summary>点击展开</summary>
+
+请一定先阅读以下我们的[欢迎文档](https://github.com/buildingdata/Welcome)
+
+<a href="https://github.com/buildingdata/Welcome">
+  	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=welcome&theme=graywhite" />
+  </a>
+
+</details>
