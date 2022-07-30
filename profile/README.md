@@ -66,8 +66,8 @@
 <summary>点击展开</summary>
 
 - 可以查看团队的 Wiki
+- 可以到[团队讨论](https://github.com/orgs/buildingdata/discussions)
 - 可以查看团队的[《开发手册》](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
-- 可以到团队讨论发起问题
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
 
 </details>
