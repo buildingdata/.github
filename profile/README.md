@@ -55,8 +55,7 @@
 请一定先阅读以下我们的[欢迎文档](https://github.com/buildingdata/Welcome)以及[开发手册](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
 
 <a href="https://github.com/buildingdata/Welcome">
-  	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=welcome&theme=light#gh-light-mode-only" />
-  	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=welcome&theme=dark#gh-dark-mode-only" />
+  	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=welcome&theme=light" />
   </a>
 
 </details>
