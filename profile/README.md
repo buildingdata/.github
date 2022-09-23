@@ -65,7 +65,7 @@
 <details>
 <summary>点击展开</summary>
 
-- 可以查看团队的 Wiki
+- 可以查看团队的[开发 Wiki](https://wiki.nousbuild.com:3443)
 - 可以到[团队讨论](https://github.com/orgs/buildingdata/discussions)
 - 可以查看团队的[《开发手册》](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
