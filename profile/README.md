@@ -21,10 +21,12 @@
 
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
-| 建筑节能数字平台 |    开发和维护    | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
-|    小团队网盘    |       搭建       | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
-|     栅格数据     | 处理和合成典型年 |             [丙鹏](https://github.com/lbp21375)              |
-|    节能率计算    |   MATLAB 开发    |            [昊宁](https://github.com/pudding0503)            |
+| 建筑节能数据平台 |    开发和维护    | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
+| 数据平台开发 Wiki |    开发和维护    | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
+| 十三五太阳辐射数据展示 |    开发    | [丙鹏](https://github.com/lbp21375) 、[昊宁](https://github.com/pudding0503)|
+| 数据下载平台 |    开发    | [丙鹏](https://github.com/lbp21375) |
+|   栅格数据处理   | 处理栅格数据和合成典型年 |             [丙鹏](https://github.com/lbp21375)              |
+|    节能率计算    |   MATLAB / C++ 开发及软著申请    |            [昊宁](https://github.com/pudding0503)            |
 
 </details>
 
@@ -65,8 +67,8 @@
 <details>
 <summary>点击展开</summary>
 
-- 可以查看团队的[开发 Wiki](https://wiki.nousbuild.com:3443)
-- 可以到[团队讨论](https://github.com/orgs/buildingdata/discussions)
+- 可以查看[团队的 Wiki](https://wiki.nousbuild.com:3443/)
+- 可以到[团队讨论发起问题](https://github.com/orgs/buildingdata/discussions)
 - 可以查看团队的[《开发手册》](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
 
