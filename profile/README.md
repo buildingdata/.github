@@ -58,7 +58,7 @@
 
 <a href="https://github.com/buildingdata/Welcome">
   	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=welcome&theme=light" />
-  </a>
+</a>
 
 </details>
 
@@ -71,5 +71,9 @@
 - 可以到[团队讨论发起问题](https://github.com/orgs/buildingdata/discussions)
 - 可以查看团队的[《开发手册》](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
+
+<a href="https://github.com/orgs/buildingdata/discussions">
+  	<img alt="Welcome" src="https://github-readme-stats.vercel.app/api/pin/?username=buildingdata&repo=Discussions&theme=light" />
+</a>
 
 </details>
