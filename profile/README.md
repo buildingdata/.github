@@ -22,11 +22,11 @@
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
 | 建筑节能数据平台 |    开发和维护    | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
+| 数据平台规划 |   当前任务与未来计划    |            [昊宁](https://github.com/pudding0503)            |
 | 数据平台开发 Wiki |    开发和维护    | [昊宁](https://github.com/pudding0503)、[丙鹏](https://github.com/lbp21375) |
 | 十三五太阳辐射数据展示 |    开发    | [丙鹏](https://github.com/lbp21375) 、[昊宁](https://github.com/pudding0503)|
-| 数据下载平台 |    开发    | [丙鹏](https://github.com/lbp21375) |
-|   栅格数据处理   | 处理栅格数据和合成典型年 |             [丙鹏](https://github.com/lbp21375)              |
-|    节能率计算    |   MATLAB / C++ 开发及软著申请    |            [昊宁](https://github.com/pudding0503)            |
+| 数据下载平台 |    开发（暂缓）    | [丙鹏](https://github.com/lbp21375) |
+|   栅格数据处理   | 处理栅格数据 | [丙鹏](https://github.com/lbp21375)、[昊宁](https://github.com/pudding0503) |
 
 </details>
 
