@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="assets/logo.svg" align="center" alt="Logo" />
  <h2 align="center">Building Data</h2>
- <p align="center">西安建筑科技大学建筑节能数据团队</p>
+ <p align="center">西安建筑科技大学“零能零碳”建筑数团队数据小组</p>
 </p>
 <p align="center">
   <a href="http://buildingdata.xauat.edu.cn/">
