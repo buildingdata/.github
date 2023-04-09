@@ -21,10 +21,10 @@
 
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
-| 新十三五数据平台 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)，[昊宁<sup>2</sup>](https://github.com/bitcookies) |
-| 数据平台开发 Wiki |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)，[昊宁<sup>2</sup>](https://github.com/bitcookies) |
+| 新十三五数据平台 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 数据平台开发 Wiki |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 十三五太阳辐射数据展示 2D |    开发    | [丙鹏](https://github.com/lbp21375)|
-| 十三五太阳辐射数据展示 3D |    开发    | [昊宁<sup>1</sup>](https://github.com/pudding0503)，[昊宁<sup>2</sup>](https://github.com/bitcookies) |
+| 十三五太阳辐射数据展示 3D |    开发    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 太阳辐射空间化 |    科研    | [丙鹏](https://github.com/lbp21375) |
 | “地理信息+” 数据库建立 | 科研 | [学锟](https://github.com/ACOLAFISH) |
 
@@ -39,7 +39,7 @@
 | :------: | :------: | :------------------------------------: | :---------------------------------: |
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |                                     |
 | 2021 级  |    是    | [学锟](https://github.com/ACOLAFISH) |                                     |
-| 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)，[昊宁<sup>2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
+| 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
 | 2023 级  |    否    |                                        |                                     |
 
 下次团队交接时间在 2024 年暑假期间：
