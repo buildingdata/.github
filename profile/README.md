@@ -21,12 +21,11 @@
 
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
-| 新十三五数据平台 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
-| 数据平台开发 Wiki |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 十三五平台 Ver.3 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 十三五太阳辐射数据展示 2D |    开发    | [丙鹏](https://github.com/lbp21375)|
 | 十三五太阳辐射数据展示 3D |    开发    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
-| 太阳辐射空间化 |    科研    | [丙鹏](https://github.com/lbp21375) |
-| “地理信息+” 数据库建立 | 科研 | [学锟](https://github.com/ACOLAFISH) |
+| 太阳辐射空间化数据集 |    科研    | [丙鹏](https://github.com/lbp21375) |
+| 气象参数数据平台 Ver.1 | 科研 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 
 </details>
 
@@ -42,7 +41,7 @@
 | 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
 | 2023 级  |    否    |                                        |                                     |
 
-下次团队交接时间在 2024 年暑假期间：
+下次团队交接时间在 2024 年底前：
 
 - 升学到研三的同学，将让出此组织的管理权
 - 升学到研二的同学，将拿起接力棒，管理好此组织
@@ -67,8 +66,7 @@
 
 <details>
 <summary>点击展开</summary>
-
-- 可以查看[团队的 Wiki](https://wiki.nousbuild.com:3443/)
+ 
 - 可以到[团队讨论发起问题](https://github.com/orgs/buildingdata/discussions)
 - 可以查看团队的[《开发手册》](https://github.com/buildingdata/Welcome/blob/main/Devbook.md)
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
