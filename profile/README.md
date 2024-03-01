@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="assets/logo.svg" align="center" alt="Logo" />
  <h2 align="center">Building Data</h2>
- <p align="center">西安建筑科技大学“零能零碳”建筑数团队数据小组</p>
+ <p align="center">西安建筑科技大学 “零能零碳” 建筑数团队数据小组</p>
 </p>
 <p align="center">
   <a href="http://buildingdata.xauat.edu.cn/">
@@ -21,11 +21,9 @@
 
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
-| 十三五平台 Ver.3 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
-| 十三五太阳辐射数据展示 2D |    开发    | [丙鹏](https://github.com/lbp21375)|
-| 十三五太阳辐射数据展示 3D |    开发    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
-| 太阳辐射空间化数据集 |    科研    | [丙鹏](https://github.com/lbp21375) |
-| 气象参数数据平台 Ver.1 | 科研 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 十三五平台 Ver.2 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 网格化的太阳辐射空间化模型 |    科研    | [丙鹏](https://github.com/lbp21375) |
+| 建筑节能基础参数平台 Ver.1 | 科研和开发 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 
 </details>
 
@@ -40,6 +38,7 @@
 | 2021 级  |    是    | [学锟](https://github.com/ACOLAFISH) |                                     |
 | 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
 | 2023 级  |    否    |                                        |                                     |
+| 2024 级  |    否    |                                        |                                     |
 
 下次团队交接时间在 2024 年底前：
 
