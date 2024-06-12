@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="assets/logo.svg" align="center" alt="Logo" />
+ <img width="100px" src="../assets/logo.svg" align="center" alt="Logo" />
  <h2 align="center">Building Data</h2>
  <p align="center">西安建筑科技大学 “零能零碳” 建筑数团队数据小组</p>
 </p>
@@ -24,6 +24,7 @@
 | 十三五平台 Ver.2 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 网格化的太阳辐射空间化模型 |    科研    | [丙鹏](https://github.com/lbp21375) |
 | 建筑节能基础参数平台 Ver.1 | 科研和开发 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 熟悉项目组 | 科研和开发 | [佳帅](https://github.com/cointem) |
 
 </details>
 
@@ -35,14 +36,15 @@
 | 入学年份 | 是否管理 |              Github 账户               |                                     |
 | :------: | :------: | :------------------------------------: | :---------------------------------: |
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |                                     |
-| 2021 级  |    是    | [学锟](https://github.com/ACOLAFISH) |                                     |
+|   博士   |    否    | [兵兵](https://github.com/niubingbingcn)  |                                     |
+| 2021 级  |    否    | [学锟](https://github.com/ACOLAFISH) |                                     |
 | 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
-| 2023 级  |    否    |                                        |                                     |
-| 2024 级  |    否    |                                        |                                     |
+| 2023 级  |    否    |                                    |                                     |
+| 2024 级  |    是    | [佳帅](https://github.com/cointem) |                                     |
 
-下次团队交接时间在 2024 年底前：
+下次团队交接时间在 2024 年底至 2025 年初：
 
-- 升学到研三的同学，将让出此组织的管理权
+- 将毕业的研三同学，将让出此组织的管理权
 - 升学到研二的同学，将拿起接力棒，管理好此组织
 - 准备入学的准研一同学此时也会加入进来，提早熟悉
 
