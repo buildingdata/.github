@@ -22,8 +22,8 @@
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
 | 十三五平台 Ver.2 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
-| 网格化的太阳辐射空间化模型 |    科研    | [丙鹏](https://github.com/lbp21375) |
-| 建筑节能基础参数平台 Ver.1 | 科研和开发 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
+| 网格化太阳辐射空间化模型 |    科研    | [丙鹏](https://github.com/lbp21375) |
+| 建筑节能基础数据计算平台 | 科研和开发 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 熟悉项目组 | 科研和开发 | [佳帅](https://github.com/cointem) |
 
 </details>
@@ -41,6 +41,7 @@
 | 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
 | 2023 级  |    否    |                                    |                                     |
 | 2024 级  |    是    | [佳帅](https://github.com/cointem) |                                     |
+| 2025 级  |    否    |                                    |                                     |
 
 下次团队交接时间在 2024 年底至 2025 年初：
 
