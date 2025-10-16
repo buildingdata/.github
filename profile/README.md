@@ -21,6 +21,7 @@
 
 |     任务名称     |       需求       |                           参与人员                           |
 | :--------------: | :--------------: | :----------------------------------------------------------: |
+| 城市碳•数字孪生AI |    开发和科研    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 十三五平台 Ver.2 |    开发和维护    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
 | 网格化太阳辐射空间化模型 |    科研    | [丙鹏](https://github.com/lbp21375) |
 | 建筑节能基础数据计算平台 | 科研和开发 | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) |
@@ -36,9 +37,9 @@
 | 入学年份 | 是否管理 |              Github 账户               |                                     |
 | :------: | :------: | :------------------------------------: | :---------------------------------: |
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |                                     |
-|   博士   |    否    | [兵兵](https://github.com/niubingbingcn)  |                                     |
+|   博士   |    是    | [兵兵](https://github.com/niubingbingcn)  |  [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies)  |
 | 2021 级  |    否    | [学锟](https://github.com/ACOLAFISH) |                                     |
-| 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
+| 2022 级  |    否    |  | [丙鹏](https://github.com/lbp21375) |
 | 2023 级  |    否    |                                    |                                     |
 | 2024 级  |    是    | [佳帅](https://github.com/cointem) |                                     |
 | 2025 级  |    否    |                                    |                                     |
@@ -78,3 +79,4 @@
 </a>
 
 </details>
+
