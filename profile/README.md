@@ -39,10 +39,10 @@
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |                                     |
 |   博士   |    是    | [兵兵](https://github.com/niubingbingcn)  |  [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies)  |
 | 2021 级  |    否    | [学锟](https://github.com/ACOLAFISH) |                                     |
-| 2022 级  |    否    |  | [丙鹏](https://github.com/lbp21375) |
-| 2023 级  |    否    |                                    |                                     |
+| 2022 级  |    否    | [丙鹏](https://github.com/lbp21375) |
+| 2023 级  |    否    | 晨好                                   |                                     |
 | 2024 级  |    是    | [佳帅](https://github.com/cointem) |                                     |
-| 2025 级  |    否    |                                    |                                     |
+| 2025 级  |    否    | 天庆                                   |  鑫龙                                   |
 
 下次团队交接时间在 2024 年底至 2025 年初：
 
@@ -79,4 +79,5 @@
 </a>
 
 </details>
+
 
